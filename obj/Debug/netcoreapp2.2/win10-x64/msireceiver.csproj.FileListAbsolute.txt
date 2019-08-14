@@ -1,0 +1,14 @@
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\win10-x64\msireceiver.exe
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\win10-x64\msireceiver.deps.json
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\win10-x64\msireceiver.runtimeconfig.json
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\win10-x64\msireceiver.runtimeconfig.dev.json
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\win10-x64\msireceiver.dll
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\win10-x64\msireceiver.pdb
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\obj\Debug\netcoreapp2.2\win10-x64\msireceiver.csprojAssemblyReference.cache
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\obj\Debug\netcoreapp2.2\win10-x64\msireceiver.csproj.CoreCompileInputs.cache
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\obj\Debug\netcoreapp2.2\win10-x64\msireceiver.AssemblyInfoInputs.cache
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\obj\Debug\netcoreapp2.2\win10-x64\msireceiver.AssemblyInfo.cs
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\obj\Debug\netcoreapp2.2\win10-x64\msireceiver.dll
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\obj\Debug\netcoreapp2.2\win10-x64\msireceiver.pdb

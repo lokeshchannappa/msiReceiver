@@ -1,0 +1,11 @@
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\MsiReceiver.deps.json
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\MsiReceiver.runtimeconfig.json
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\MsiReceiver.runtimeconfig.dev.json
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\MsiReceiver.dll
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\bin\Debug\netcoreapp2.2\MsiReceiver.pdb
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\obj\Debug\netcoreapp2.2\MsiReceiver.csproj.CoreCompileInputs.cache
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\obj\Debug\netcoreapp2.2\MsiReceiver.AssemblyInfoInputs.cache
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\obj\Debug\netcoreapp2.2\MsiReceiver.AssemblyInfo.cs
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\obj\Debug\netcoreapp2.2\MsiReceiver.dll
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\obj\Debug\netcoreapp2.2\MsiReceiver.pdb
+C:\Lokesh\WEIR\POC\msireceiver\msireceiver\obj\Debug\netcoreapp2.2\MsiReceiver.csprojAssemblyReference.cache
