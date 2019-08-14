@@ -13,7 +13,7 @@ namespace Msireceiver
     /// <summary>
     /// Program class
     /// </summary>
-    public class Program
+    public static class Program
     {
         /// <summary>
         /// Main method
@@ -67,7 +67,7 @@ namespace Msireceiver
                 p.EnableRaisingEvents = true;
                 p.WaitForExit();
 
-                status = p.ExitCode == 0 ? true: false;
+                status = p.ExitCode == 0;
             }
             return status;
         }
